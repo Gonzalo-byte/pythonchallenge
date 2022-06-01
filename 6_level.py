@@ -1,7 +1,8 @@
 #www.pythonchallenge.com/pc/def/channel.zip
 """
 Level 6
-
+you need to create a function to read all zip files. after that you need to read the comments and print the answer
+in the letters is the second secret
 
 """
 from zipfile import ZipFile
